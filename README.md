@@ -1,17 +1,23 @@
 🌎 Bilingual English, native Spanish, fluent in Portuguese and Italian
+
 📊 Data Engineering
+
 👁️‍🗨️ Business Intelligence
 
-► ►►Technologies
+►►► Technologies
+
 ✔️ Spark & Databricks ✔️ Microsoft Azure & AWS ✔️ Airflow ✔️ dbt ✔️ Snowflake ✔️ Power BI ✔️ Docker ✔️ Git
 
 ►►► Languages
+
 ✔️ SQL, SparkSQL ✔️ Python, PySpark ✔️ R ✔️ Scala
 
 ►►► Other
+
 ✔️ Trello, ClickUp, Jira ✔️ Mural, Miro
 
-👉👉👉👉 About me
+
+👉👉👉 About me
 
 🌐 Recently relocated to Europe
 
