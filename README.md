@@ -1,4 +1,4 @@
-🌎 Bilingual English, native Spanish, fluent in Portuguese and Italian
+🌎 Bilingual in English, native in Spanish, fluent in Portuguese and Italian
 
 📊 Data Engineering & Business Intelligence
 
