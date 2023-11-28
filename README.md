@@ -4,7 +4,7 @@
 
 ►►► Technologies
 
-✔️ SQL ✔️ Python ✔️ R ✔️ Scala ✔️ Spark & Databricks ✔️ Microsoft Azure & AWS ✔️ Airflow ✔️ dbt ✔️ Snowflake ✔️ Power BI ✔️ Docker ✔️ Git 
+✔️ SQL ✔️ Python ✔️ R ✔️ Scala ✔️ Spark & Databricks ✔️ Microsoft Azure & AWS ✔️ Airflow ✔️ dbt ✔️ Snowflake ✔️ Power BI ✔️ Docker ✔️ Git ✔️ CI/CD 
 
 👉👉👉 About me
 
